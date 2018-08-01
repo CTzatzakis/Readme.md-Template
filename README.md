@@ -1,16 +1,13 @@
 # Repo_Setup_Template
 
 # Table of Contents
-* [Setup Readme File](#setup-readme-file)
-* [General Template](#general-template)
+* [Readme File Template](#readme-file-template)
 * [Customization](#customization)
 * [Image Preview](#image-preview)
 * [All github Emoji](#all-github-emoji)
 * [EOF](#eof)
 
-## Setup Readme File
-
-### General Template
+## Readme File Template
 
 ## Customization
 
