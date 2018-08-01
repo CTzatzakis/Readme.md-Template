@@ -1,13 +1,31 @@
 # Repo_Setup_Template
 
 # Table of Contents
-* [Setup Readme.md](#setup-readme-file)
+* [Setup Readme File](#setup-readme-file)
+* [General Template](#general-template)
+* [Customization](#customization)
+* [Image Preview](#image-preview)
 * [All github Emoji](#all-github-emoji)
 
 ## Setup Readme File
 
+### General Template
 
+## Customization
 
+### Image Preview
+
+```
+![text]([Image URL]) 
+```
+
+#### Dual Image Preview
+
+```
+First Image                |  Second Image
+:-------------------------:|:-------------------------:
+![text]([Image URL])       |  ![text]([Image URL])
+```
 ## All github Emoji
 
 :bowtie: | :smile: | :laughing: | :blush: | :smiley: | :relaxed: | :smirk: | :heart_eyes: | :kissing_heart: | :kissing_face: | :flushed: | :relieved: | :satisfied: | :grin: | :wink: | :wink2: | :tongue: | :unamused: | :sweat_smile: | :sweat:
