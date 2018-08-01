@@ -29,14 +29,14 @@ or an image from the repo
 :-------------------------:|:-------------------------:
 ![text]([Image URL])       |  ![text]([Image URL])
 ```
-### <a name="table-of-content"></a>Table of content
+### Table of content
 
 ```
 # Table of Contents
 
 * [Team Members](#team-members)
 
-# <a name="team-members"></a>Team Members
+# Team Members
 * "John Doe" <johndoe.com>
 ```
 
