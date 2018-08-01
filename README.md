@@ -10,11 +10,6 @@
 ## Readme File Template
 
 ## Customization
-To use text brackets type the following before and after.
-```
-!``` 
-!```
-``` 
 
 ### Image Preview
 
