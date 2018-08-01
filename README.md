@@ -4,7 +4,7 @@
 * [Readme File Template](#readme-file-template)
 * [Customization](#customization)
 * [Image Preview](#image-preview)
-* [Table of Content](#teble-of-content)
+* [Table of Content](#table-of-content)
 * [All github Emoji](#all-github-emoji)
 * [EOF](#eof)
 
