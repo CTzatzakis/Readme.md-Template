@@ -11,10 +11,23 @@
 
 ## Customization
 
+```
+
+```
+
+```
+```
+```
+```
+
 ### Image Preview
 
 ```
 ![text]([Image URL]) 
+```
+or an image from the repo
+```
+![text](https://raw.githubusercontent.com/username/projectname/branch/[image])
 ```
 
 #### Dual Image Preview
