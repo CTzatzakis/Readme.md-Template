@@ -1,5 +1,14 @@
 # Repo_Setup_Template
-## All github Emoji (Smiles)
+
+# Table of Contents
+* [Setup Readme.md](#setup-readme.md)
+* [All github Emoji](#all-github-emoji)
+
+## Setup Readme.md
+
+
+
+## All github Emoji
 
 :bowtie: | :smile: | :laughing: | :blush: | :smiley: | :relaxed: | :smirk: | :heart_eyes: | :kissing_heart: | :kissing_face: | :flushed: | :relieved: | :satisfied: | :grin: | :wink: | :wink2: | :tongue: | :unamused: | :sweat_smile: | :sweat:
 
