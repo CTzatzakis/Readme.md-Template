@@ -12,12 +12,11 @@
 ## Customization
 
 ```
-
 ```
 
 ```
-```
-```
+[```]
+[```]
 ```
 
 ### Image Preview
