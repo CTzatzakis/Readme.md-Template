@@ -1,10 +1,10 @@
 # Repo_Setup_Template
 
 # Table of Contents
-* [Setup Readme.md](#setup-readme.md)
+* [Setup Readme.md](#setup-readme-file)
 * [All github Emoji](#all-github-emoji)
 
-## Setup Readme.md
+## Setup Readme File
 
 
 
