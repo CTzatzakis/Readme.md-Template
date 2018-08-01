@@ -6,6 +6,7 @@
 * [Customization](#customization)
 * [Image Preview](#image-preview)
 * [All github Emoji](#all-github-emoji)
+* [EOF](#eof)
 
 ## Setup Readme File
 
@@ -22,7 +23,7 @@
 #### Dual Image Preview
 
 ```
-First Image                |  Second Image
+[First Image Title]        |  [Second Image Title]
 :-------------------------:|:-------------------------:
 ![text]([Image URL])       |  ![text]([Image URL])
 ```
@@ -202,3 +203,4 @@ First Image                |  Second Image
 ```
 
 
+#EOF
